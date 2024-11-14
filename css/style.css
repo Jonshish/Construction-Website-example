@@ -543,7 +543,7 @@ section {
 }
 
 .services .box-container .box img {
-  height: 7rem;
+  height: 16rem;
   margin-bottom: .5rem;
   -webkit-transition: .2s linear;
   transition: .2s linear;
@@ -961,3 +961,4 @@ section {
   }
 }
 /*# sourceMappingURL=style.css.map */
+
